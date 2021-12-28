@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+Chislov.egg-info/PKG-INFO
+Chislov.egg-info/SOURCES.txt
+Chislov.egg-info/dependency_links.txt
+Chislov.egg-info/not-zip-safe
+Chislov.egg-info/requires.txt
+Chislov.egg-info/top_level.txt
